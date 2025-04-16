@@ -1,0 +1,22 @@
+<body style="background-color:black;">
+    <div style="background-color:black; height: 100vh;">
+        <div class="container bg ">
+            <div class="d-flex flex-row justify-content-around pt-3" style="background-color: black; color: white;">
+                <p>HOME</p>
+                <p class="d-none d-md-block">ARTISTIS</p>
+                <p>GALLERY</p>
+                <p class="d-none d-md-block">PIERCING</p>
+                <p>CONTACT</p>   
+            </div>
+        </div>
+    </div>
+    <div class="container d-flex flex-row mt-3">
+        <h3>Express Your Inner Ink!</h3>
+        <div class="container ">
+            <P></P>In the vibrant world of tattoo artistry, crafting content that mirrors the creativity and uniqueness of your work is absolutely crucial. It's not merely about showcasing your designs; it's about weaving a captivating narrative around them, drawing in tattoo enthusiasts and curious onlookers alike. Engaging, visually appealing, and authentic content can set your business apart in this highly competitive space. Think vivid imagery, enthralling stories behind each piece, and a peek into the process that goes into creating these masterpieces. Employing a platform like Desygner can elevate your visual storytelling, enabling you to design striking graphics that resonate with your brand's essence. Remember, your goal is to not just display tattoos but to narrate the passion and artistry that breathes life into them.
+        </div>
+    </div>
+    <div class="container">
+        In the vibrant world of tattoo artistry, crafting content that mirrors the creativity and uniqueness of your work is absolutely crucial. It's not merely about showcasing your designs; it's about weaving a captivating narrative around them, drawing in tattoo enthusiasts and curious onlookers alike. Engaging, visually appealing, and authentic content can set your business apart in this highly competitive space. Think vivid imagery, enthralling stories behind each piece, and a peek into the process that goes into creating these masterpieces. Employing a platform like Desygner can elevate your visual storytelling, enabling you to design striking graphics that resonate with your brand's essence. Remember, your goal is to not just display tattoos but to narrate the passion and artistry that breathes life into them.
+    </div>
+</body>
